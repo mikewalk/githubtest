@@ -1,0 +1,1 @@
+Now I'm editting test.txt, maybe this wont work like the other change.
