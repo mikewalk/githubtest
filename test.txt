@@ -1,1 +1,3 @@
 Now I'm editting test.txt, maybe this wont work like the other change.
+This is a multiple change commit - here's the first change
+Yet anohter change here
